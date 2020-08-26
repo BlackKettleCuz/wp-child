@@ -9,6 +9,7 @@ In order for you child theme to inherit the desired parent theme, change the tem
 <code>
 /style.css
 </code>
+<br/>
 <code>
 line 7: Template: PARENTTHEME
 </code>
