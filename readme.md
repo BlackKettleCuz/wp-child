@@ -8,7 +8,7 @@ In order for you child theme to inherit the desired parent theme, change the tem
 
 <code>
 /* 
-Theme Name: Blackkettle Child Theme
+Theme Name: Blackkettle Child Theme<br/>
 Theme URI: https: //github.com/BlackKettleCuz
 Description: Blackkettle Generic Child Theme
 Author: Blackkettle
